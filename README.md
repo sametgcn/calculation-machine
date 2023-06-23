@@ -1,2 +1,2 @@
 # calculation-machine
-Switch-Case ile yaptığım hesap makinesi.
+İngilizce olarak yazdığım bu program yüklediğim ilk proje denilebilir. Console üzerinden C# ile yazıldı.
